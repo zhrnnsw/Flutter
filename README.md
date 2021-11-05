@@ -1,1 +1,4 @@
 # Flutter
+Flutter merupakan teknologi milik Google untuk membangun aplikasi dengan tampilan UI yang apik, serta dapat di-compile secara native ke dalam aplikasi mobile, web, dan desktop hanya dari satu basis kode. Flutter menggunakan bahasa Dart, sebuah bahasa pemrograman yang dikembangkan oleh Google.
+Awalnya, Flutter dikenal dengan nama Sky. Flutter pertama kali diperkenalkan pada acara Dart Developer Summit 2015. Pada tanggal 4 Desember 2018, Google merilis Flutter 1.0 di acara Flutter Live Event. Hal ini juga menandai rilisnya versi stabil pertama dari Flutter. Selanjutnya Flutter 1.12 dirilis di acara Flutter Interact yang diadakan pada tanggal 11 Desember 2019. Pada versi ini, versi beta Flutter untuk web juga diperkenalkan ke publik.
+Banyak perusahaan besar dunia yang telah mengadopsi Flutter untuk mengembangkan aplikasi mereka. Sebut saja Google, Alibaba Group, dan Grab.
